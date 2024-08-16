@@ -52,8 +52,11 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
+ ![Kod Temalı Gif 1](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+ ![Kod Temalı Gif 2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+ ![Kod Temalı Gif 3](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-![Kod Temalı Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
 
 
