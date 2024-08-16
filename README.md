@@ -73,15 +73,9 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
    ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ercan1s1k&theme=vue)
 
-
-4. **Wakatime Stats**:
-
-   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ercan1s1k)
-
-
 5. **GitHub Gist Pins**:
 
-   ![Gist Pins](https://github-readme-gist-pins.vercel.app/api/gist-pins?username=ercan1s1k)
+   ![Gist Pins](https://github-readme-gist-pins.vercel.app/api/gist-pins?username=ercan1s1k)(
 
 
 6. **GitHub Skyline**:
