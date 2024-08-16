@@ -37,7 +37,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ## 📊 GitHub İstatistiklerim:
 [![](https://visitcount.itsvg.in/api?id=ercan1s1k&label=Profilime%20T%C4%B1klanma%20Say%C4%B1s%C4%B1&color=2&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
-**Ziyaretçi Sayısı**:
+## Ziyaretçi Sayısı:
    ![Visitor Count](https://profile-counter.glitch.me/ercan1s1k/count.svg)
    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=react)
