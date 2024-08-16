@@ -1,5 +1,3 @@
-Tabii ki! İşte daha modern ve GitHub'ın sunduğu tüm imkanları kullanarak hazırladığım README.md dosyası:
-
 ```markdown
 # 👋 Merhaba, Ben Ercan Işık!
 
@@ -36,8 +34,6 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 Bana sosyal medya hesaplarımdan ulaşabilirsiniz. Her zaman yeni projeler ve işbirlikleri için açığım!
 
 ---
-
-Teşekkürler!
 ```
+Teşekkürler!
 
-Bu README.md dosyası, GitHub profilinde kendini tanıtmak ve sosyal medya hesaplarını paylaşmak için daha modern ve çekici bir görünüm sağlayacaktır. Başka bir şeyle yardımcı olabilir miyim?
