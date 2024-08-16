@@ -67,23 +67,17 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 ## Commits
-![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Commits&width=200&height=200)
+![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Commits&width=600&height=350)
 
 ## Top Languages by Commits
-![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Languages&width=200&height=200)
+![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Languages&width=600&height=350)
 
 ## Contributions
-![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Contributors&width=200&height=200)
+![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Contributors&width=600&height=350)
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k&width=800&height=400)
 
-
-```markdown
-## Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&width=1200&height=500&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 *
