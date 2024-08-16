@@ -44,7 +44,13 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ## Profil Rozetlerim:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div id="wave-container" style="width: 100%; height: 200px; overflow: hidden;">
+
+
+
+
+
+
+<div style="width: 100%; height: 200px; overflow: hidden;">
   <svg viewBox="0 0 1200 200" preserveAspectRatio="none" style="width: 100%; height: 100%;">
     <path d="M0,100 C150,200 350,0 500,100 C650,200 850,0 1000,100 C1150,200 1350,0 1500,100 L1500,00 L0,0 Z" style="fill: #0077be;">
       <animate attributeName="d" dur="5s" repeatCount="indefinite"
@@ -54,12 +60,6 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
     </path>
   </svg>
 </div>
-
-
-
-
-
-
 
 
 
