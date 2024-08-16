@@ -75,7 +75,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
-```markdown
+
 ## Commits
 ![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Commits)
 
@@ -90,7 +90,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## 🏆 GitHub Profil Rozetlerim:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-```
+
 
 
 
