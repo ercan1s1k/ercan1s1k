@@ -39,7 +39,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 [![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=radical)
 ## Commits
-![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k?style=for-the-badge&logoColor=white&label=Commits)
+![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Commits)
 
 ## Top Languages by Commits
 ![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Languages)
@@ -48,7 +48,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Contributors)
 
 ## Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Profil Rozetlerim:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
