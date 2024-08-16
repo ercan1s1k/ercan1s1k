@@ -39,6 +39,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 **Ziyaretçi Sayısı**:
    ![Visitor Count](https://profile-counter.glitch.me/ercan1s1k/count.svg)
+   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=react)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ercan1s1k&theme=dark)](https://github.com/ercan1s1k)
