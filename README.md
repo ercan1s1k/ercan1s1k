@@ -55,7 +55,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 <!-- END_QUOTES -->
 
-
+<img src="https://media.giphy.com/media/YOUR_GIPHY_LINK/giphy.gif" width="30px"
 
 
 
