@@ -65,7 +65,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Metrics](https://github.com/ercan1s1k/metrics)
+![Metrics](https://x.com/ercan1s1k/metrics)
 
 
  
