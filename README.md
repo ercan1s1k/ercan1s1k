@@ -24,19 +24,19 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## 🌐 Web Sitelerim
 
-- <i class="fas fa-project-diagram"></i>[Grafik Hesap Makinesi](https://ercan1s1k.github.io/grafik-hesap-makinesi)
-- <i class="fas fa-project-diagram"></i>[Yılan Oyunu](https://ercan1s1k.github.io/yilan_oyunu)
-- <i class="fas fa-project-diagram"></i>[Sesli Komut ile Sayfayı Renklendirme ](https://ercan1s1k.github.io/sayfayi_soyledigin_renkle_renklendir/)
-- <i class="fas fa-project-diagram"></i>[Fotoğraftan Yazı Çekme](https://ercan1s1k.github.io/fotodaki_yaziyi_al/)
-- <i class="fas fa-project-diagram"></i>[Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri/)
-
-
+- 🔗 [Grafik Hesap Makinesi](https://ercan1s1k.github.io/grafik-hesap-makinesi)
+- 🔗 [Yılan Oyunu](https://ercan1s1k.github.io/yilan_oyunu)
+- 🔗 [Sesli Komut ile Sayfayı Renklendirme ](https://ercan1s1k.github.io/sayfayi_soyledigin_renkle_renklendir/)
+- 🔗 [Fotoğraftan Yazı Çekme](https://ercan1s1k.github.io/fotodaki_yaziyi_al/)
+- 🔗 [Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri/)
 
 ## 📊 GitHub İstatistiklerim
+
 ![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=radical)
 
 ## 🏆 GitHub Profil Rozetlerim
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
