@@ -65,7 +65,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 2. **Visitor Badge**:
 
-   ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ercan1s1k.visitor-badge)
+   [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ercan1s1k.visitor-badge)](https://github.com/ercan1s1k)
 
 
 3. **GitHub Profile Summary Cards**:
