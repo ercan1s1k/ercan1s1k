@@ -4,13 +4,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ercan1s1k&color=blue)
 
 ## 🚀 Hakkımda
-Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında kendimi geliştirmeyi ve yeni teknolojiler öğrenmeyi seviyorum. Aşağıda benimle ilgili bazı bilgiler bulabilirsiniz.
+Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında kendimi geliştirme konusunda istekliyim. 
 
 ## 🌐 Sosyal Medya Hesaplarım
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ercan1s1k)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akikvsafir)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ercan1s1k)
-[![Yaay](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fyaay-sosyal-logo-vector-svg-pdf-ai-eps-cdr-free-download-13062.html&psig=AOvVaw3YwV11KD6o83vyEREDN66Z&ust=1723890946797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi4z7Wo-YcDFQAAAAAdAAAAABAQ)](https://www.yaay.com.tr/AkikVeSafir)
+[![Yaay]()](https://www.yaay.com.tr/AkikVeSafir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ercan1s1k)
 
 ## 💻 Bildiğim Yazılım Dilleri
