@@ -58,6 +58,42 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ---
 
+
+*
+*
+*
+*
+
+
+```markdown
+## Commits
+![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Commits&width=200&height=200)
+
+## Top Languages by Commits
+![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Languages&width=200&height=200)
+
+## Contributions
+![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Contributors&width=200&height=200)
+
+## Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k&width=800&height=400)
+
+## 🏆 GitHub Profil Rozetlerim:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3&width=400&height=200)](https://github.com/ryo-ma/github-profile-trophy)
+
+```markdown
+## Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```
+
+
+
+*
+*
+*
+*
+*
+
 ### İletişime Geç:
 
 Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
