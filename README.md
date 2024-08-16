@@ -64,18 +64,10 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
-1. **GitHub Readme Streak Stats**:
 
-   
+**GitHub Profile Summary Cards**:
 
-
-
-
-2. 
-
-3. **GitHub Profile Summary Cards**:
-
-   ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ercan1s1k&theme=vue)
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ercan1s1k&theme=vue)
 
 
 
