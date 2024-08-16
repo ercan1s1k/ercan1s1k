@@ -1,0 +1,13 @@
+# node_modules klasörünü yok say
+node_modules/
+
+# Log dosyalarını yok say
+logs/
+*.log
+
+# Çevre değişkenlerini yok say
+.env
+
+# Derleme çıktısını yok say
+dist/
+build/
