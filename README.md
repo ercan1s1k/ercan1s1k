@@ -34,6 +34,6 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 Bana sosyal medya hesaplarımdan ulaşabilirsiniz. Her zaman yeni projeler ve işbirlikleri için açığım!
 
 ---
-```
-Teşekkürler!
 
+Teşekkürler!
+```
