@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ercan1s1k&color=blue)
 
 ## 🚀 Hakkımda
-Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında kendimi geliştirme konusunda istekliyim. 
+Merhaba, Ben Ercan Işık! Yazılım geliştiricisiyim. Yazılım dünyasında kendimi geliştirme konusunda istekliyim. 
 
 ![Kod Temalı Gif 2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
