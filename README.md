@@ -51,18 +51,12 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## Çeşitli Alıntılar:
 
-<!-- START_QUOTES -->
+START_QUOTES
 
-<!-- END_QUOTES -->
-
-<img src="https://media.giphy.com/media/YOUR_GIPHY_LINK/giphy.gif" width="970px">
+END_QUOTES
 
 
-
-
-
-
-
+![Header Gif](https://media.giphy.com/media/YOUR_NEW_GIPHY_LINK/giphy.gif)
 
 
 
