@@ -1,6 +1,6 @@
-```markdown
+
 # 👋 Merhaba, Ben Ercan Işık!
-```
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ercan1s1k&color=blue)
 
 ## 🚀 Hakkımda
