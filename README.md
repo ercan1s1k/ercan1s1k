@@ -53,22 +53,8 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
  ![Kod Temalı Gif 2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+ ![Kodlama GIF 1](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
-
-
-
-## diğerleri:
-
-![Kodlama GIF 1](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
-![Kodlama GIF 2](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Kodlama GIF 3](https://media.giphy.com/media/3o7aD6v9T0XMsP3f7W/giphy.gif)
-![Kodlama GIF 4](https://media.giphy.com/media/3o7aD7D3F5pM5bYx6w/giphy.gif)
-![Kodlama GIF 5](https://media.giphy.com/media/3o7aD8v9T0XMsP3f7W/giphy.gif)
-![Kodlama GIF 6](https://media.giphy.com/media/3o7aD9v9T0XMsP3f7W/giphy.gif)
-![Kodlama GIF 7](https://media.giphy.com/media/3o7aD10v9T0XMsP3f7W/giphy.gif)
-![Kodlama GIF 8](https://media.giphy.com/media/3o7aD11v9T0XMsP3f7W/giphy.gif)
-![Kodlama GIF 9](https://media.giphy.com/media/3o7aD12v9T0XMsP3f7W/giphy.gif)
-![Kodlama GIF 10](https://media.giphy.com/media/3o7aD13v9T0XMsP3f7W/giphy.gif)
 
 
 
