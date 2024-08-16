@@ -25,9 +25,13 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ## 🌐 Web Sitelerim
 
 🔗 [Grafik Hesap Makinesi](https://ercan1s1k.github.io/grafik-hesap-makinesi)
+
 🔗 [Yılan Oyunu](https://ercan1s1k.github.io/yilan_oyunu)
+
 🔗 [Sesli Komut ile Sayfayı Renklendirme ](https://ercan1s1k.github.io/sayfayi_soyledigin_renkle_renklendir)
+
 🔗 [Fotoğraftan Yazı Çekme](https://ercan1s1k.github.io/fotodaki_yaziyi_al)
+
 🔗 [Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri)
 
 ## 📊 GitHub İstatistiklerim
