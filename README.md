@@ -24,17 +24,13 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## 🌐 Web Sitelerim
 
-- [Grafik Hesap Makinesi](https://ercan1s1k.github.io/grafik-hesap-makinesi)
-- [Yılan Oyunu](https://ercan1s1k.github.io/yilan_oyunu)
-- [Sesli Komut ile Sayfayı Renklendirme ](https://ercan1s1k.github.io/sayfayi_soyledigin_renkle_renklendir/)
-- [Fotoğraftan Yazı Çekme](https://ercan1s1k.github.io/fotodaki_yaziyi_al/)
-- [Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri/)
+- <i class="fas fa-project-diagram"></i>[Grafik Hesap Makinesi](https://ercan1s1k.github.io/grafik-hesap-makinesi)
+- <i class="fas fa-project-diagram"></i>[Yılan Oyunu](https://ercan1s1k.github.io/yilan_oyunu)
+- <i class="fas fa-project-diagram"></i>[Sesli Komut ile Sayfayı Renklendirme ](https://ercan1s1k.github.io/sayfayi_soyledigin_renkle_renklendir/)
+- <i class="fas fa-project-diagram"></i>[Fotoğraftan Yazı Çekme](https://ercan1s1k.github.io/fotodaki_yaziyi_al/)
+- <i class="fas fa-project-diagram"></i>[Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri/)
 
-- ![Grafik Hesap Makinesi](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=3&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=3&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=3&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=3&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=3&logoColor=white)
+
 
 ## 📊 GitHub İstatistiklerim
 ![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=radical)
