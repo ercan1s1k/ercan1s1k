@@ -10,7 +10,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ercan1s1k)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akikvsafir)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ercan1s1k)
-[![Yaay]([https://yaay.com.tr/yaay_logo_light.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3AYaay_logo.svg&psig=AOvVaw0HiZD_Siw71ZBcJwbh02cg&ust=1723890873028000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODt65Co-YcDFQAAAAAdAAAAABAE)](https://www.yaay.com.tr/AkikVeSafir)
+[![Yaay](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3AYaay_logo.svg&psig=AOvVaw3YwV11KD6o83vyEREDN66Z&ust=1723890946797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi4z7Wo-YcDFQAAAAAdAAAAABAJ)](https://www.yaay.com.tr/AkikVeSafir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ercan1s1k)
 
 ## 💻 Bildiğim Yazılım Dilleri
