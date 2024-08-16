@@ -1,0 +1,21 @@
+name: Update Quotes
+on:
+  push:
+    paths:
+      - 'alintilar.txt'
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update README.md
+        run: |
+          python update_readme.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update README.md with new quotes'
+          git push
