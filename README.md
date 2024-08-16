@@ -38,7 +38,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ![Commits](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=ercan1s1k&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=react)
 
 ![Contributors](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react&count_private=true)
 
@@ -46,6 +46,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## Profil Rozetlerim:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
