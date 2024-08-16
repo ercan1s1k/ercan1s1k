@@ -38,4 +38,4 @@ Bana sosyal medya hesaplarımdan ulaşabilirsiniz. Her zaman yeni projeler ve i�
 Teşekkürler!
 ```
 
-Gelişmeye ve geliştirmeye açığım.
+https://github.com/ercan1s1k
