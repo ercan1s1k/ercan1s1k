@@ -80,9 +80,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
-### İletişime Geç:
-
-[Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
+### İletişime Geç: [Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
 
 ### Daha Fazla Etkileşim İçin Profilimi Kopyalayıp Paylaş:
 ```
