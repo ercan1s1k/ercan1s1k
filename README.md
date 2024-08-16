@@ -52,10 +52,8 @@
 
 
 
- ![Kodlama GIF 1](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)![Kodlama GIF 1]
- (https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
-
-
+![Kodlama GIF 1](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![Kodlama GIF 1](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 
 
