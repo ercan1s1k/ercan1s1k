@@ -22,11 +22,6 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------
-GitHub README dosyanızda web sitelerinizi göstermek için Markdown kullanabilirsiniz. İşte nasıl yapabileceğiniz:
-
-```markdown
 ## 🌐 Web Sitelerim
 
 - [Grafik Hesap Makinesi](https://ercan1s1k.github.io/grafik-hesap-makinesi)
@@ -34,12 +29,6 @@ GitHub README dosyanızda web sitelerinizi göstermek için Markdown kullanabili
 - [Sesli Komut ile Sayfayı Renklendirme ](https://ercan1s1k.github.io/sayfayi_soyledigin_renkle_renklendir/)
 - [Fotoğraftan Yazı Çekme](https://ercan1s1k.github.io/fotodaki_yaziyi_al/)
 - [Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri/)
-```
-
-
-
------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub İstatistiklerim
 ![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=radical)
