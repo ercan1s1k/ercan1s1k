@@ -45,13 +45,13 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Languages)
 
 ## Contributions
-[![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Contributors)
+![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k?style=for-the-badge&logo=github&logoColor=white&label=Contributors)
 
 ## Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Profil Rozetlerim:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
