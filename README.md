@@ -47,19 +47,10 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ercan1s1k&theme=react-dark)](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
 
 
-<div style="width: 100%; height: 200px; overflow: hidden;">
-  <svg viewBox="0 0 1200 200" preserveAspectRatio="none" style="width: 100%; height: 100%;">
-    <path d="M0,100 C150,200 350,0 500,100 C650,200 850,0 1000,100 C1150,200 1350,0 1500,100 L1500,00 L0,0 Z" style="fill: #0077be;">
-      <animate attributeName="d" dur="5s" repeatCount="indefinite"
-        values="M0,100 C150,200 350,0 500,100 C650,200 850,0 1000,100 C1150,200 1350,0 1500,100 L1500,00 L0,0 Z;
-                M0,100 C150,0 350,200 500,100 C650,0 850,200 1000,100 C1150,0 1350,200 1500,100 L1500,00 L0,0 Z;
-                M0,100 C150,200 350,0 500,100 C650,200 850,0 1000,100 C1150,200 1350,0 1500,100 L1500,00 L0,0 Z" />
-    </path>
-  </svg>
-</div>
 
 
 
