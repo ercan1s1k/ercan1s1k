@@ -1,0 +1,13 @@
+# [Proje Adı]'na Katkıda Bulunma
+
+Projemize katkıda bulunmayı düşündüğünüz için teşekkür ederiz! İşte başlamanıza yardımcı olacak bazı yönergeler:
+
+## Nasıl Katkıda Bulunulur
+- Repository'yi fork edin
+- Yeni bir dal oluşturun (`git checkout -b feature-branch`)
+- Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik ekle'`)
+- Dalı push edin (`git push origin feature-branch`)
+- Bir pull request açın
+
+## Davranış Kuralları
+Katkıda bulunmadan önce lütfen Davranış Kuralları dosyamızı okuyun.
