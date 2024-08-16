@@ -35,20 +35,17 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 🔗 [Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri)
 
 ## 📊 GitHub İstatistiklerim:
+[![](https://visitcount.itsvg.in/api?id=ercan1s1k&label=Profilime%20T%C4%B1klanma%20Say%C4%B1s%C4%B1&color=2&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 ![Commits](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=react)
-
 ![Contributors](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react&count_private=true)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Profil Rozetlerim:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![](https://visitcount.itsvg.in/api?id=ercan1s1k&label=Profilime%20T%C4%B1klanma%20Say%C4%B1s%C4%B1&color=2&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
