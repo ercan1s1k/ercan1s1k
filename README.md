@@ -43,13 +43,13 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 [![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k)
 
 ## Top Languages by Commits
-[![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark)]![Top Languages](https://img.shields.io/github/languages/top/ercan1s1k/ercan1s1k)
 
 ## Contributions
-[![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark)]![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k)
 
 ## Activity Graph
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k&repo=ercan1s1k)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark)]![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k&repo=ercan1s1k)
 
 
 ## 🏆 GitHub Profil Rozetlerim:
@@ -60,7 +60,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ### İletişime Geç:
 
-[Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
+Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
 
 ### Daha Fazla Etkileşim İçin Profilimi Kopyalayıp Paylaş:
 ```
