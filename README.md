@@ -49,7 +49,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ![Contributors](https://img.shields.io/github/contributors/ercan1s1k/ercan1s1k)
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k&repo=ercan1s1k)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k)
 
 
 ## 🏆 GitHub Profil Rozetlerim:
