@@ -34,21 +34,22 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 🔗 [Fotoğraf Galerisi](https://ercan1s1k.github.io/galeri)
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim:
 
 ![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=radical)
 
-## 🏆 GitHub Profil Rozetlerim
+## 🏆 GitHub Profil Rozetlerim:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# İletişim
+# İletişime Geç:
 
-[Ercan Işık'a e-posta gönder](ercanik@yandex.com)
+[Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
 
+# Daha Fazla Etkileşim İçin Profilimi Kopyalayıp Paylaş:
 ```
 https://github.com/ercan1s1k
 ```
