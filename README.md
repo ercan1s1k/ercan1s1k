@@ -63,9 +63,8 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ercan1s1k&theme=dark)](https://github.com/ercan1s1k)
 
 
-2. **Visitor Badge**:
 
-   [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ercan1s1k.visitor-badge)](https://github.com/ercan1s1k)
+![Visitor Count](https://profile-counter.glitch.me/ercan1s1k/count.svg)
 
 
 3. **GitHub Profile Summary Cards**:
