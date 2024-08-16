@@ -36,7 +36,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## 📊 GitHub İstatistiklerim:
 
-![Commits](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&&width=600&height=335layout=compact&theme=react)
+![Commits](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&&width=1200&height=300layout=compact&theme=react)
 ![Contributors](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react&count_private=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
