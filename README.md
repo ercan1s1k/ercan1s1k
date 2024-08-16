@@ -44,7 +44,11 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-Teşekkürler!
+
+# İletişim
+
+[Ercan Işık'a e-posta gönder](ercanik@yandex.com)
+
 ```
 https://github.com/ercan1s1k
 ```
