@@ -39,14 +39,6 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=radical)
 
-*
-*
-*
-*
-
-
-```markdown
-
 ## Commits
 ![Commits](https://img.shields.io/github/commit-activity/m/ercan1s1k/ercan1s1k)
 
@@ -58,7 +50,6 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ## Activity Graph
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ercan1s1k&repo=ercan1s1k)
-```
 
 
 ## 🏆 GitHub Profil Rozetlerim:
