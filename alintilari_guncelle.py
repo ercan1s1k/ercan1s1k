@@ -1,5 +1,3 @@
-import os
-
 # Alıntılar dosyasının adı
 quotes_file = 'alintilar.txt'
 
@@ -16,8 +14,12 @@ def update_readme(quotes, readme):
         content = f.readlines()
 
     # Alıntılar bölümünü güncelle
-    start_index = content.index('<!-- START_QUOTES -->\n') + 1
-    end_index = content.index('<!-- END_QUOTES -->\n')
+    try:
+        start_index = content.index('<!-- START_QUOTES -->\n') + 1
+        end_index = content.index('<!-- END_QUOTES -->\n')
+    except ValueError:
+        print("README.md dosyasında gerekli etiketler bulunamadı.")
+        return
 
     new_content = content[:start_index] + quotes + content[end_index:]
 
