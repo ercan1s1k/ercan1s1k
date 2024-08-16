@@ -45,11 +45,11 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 ---
 
-# İletişime Geç:
+### İletişime Geç:
 
 [Ercan Işık'a e-posta gönder](mailto:ercanik@yandex.com)
 
-# Daha Fazla Etkileşim İçin Profilimi Kopyalayıp Paylaş:
+### Daha Fazla Etkileşim İçin Profilimi Kopyalayıp Paylaş:
 ```
 https://github.com/ercan1s1k
 ```
