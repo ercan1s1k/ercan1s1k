@@ -73,134 +73,25 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
    ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ercan1s1k&theme=vue)
 
-5. **GitHub Gist Pins**:
-
-   ![Gist Pins](https://github-readme-gist-pins.vercel.app/api/gist-pins?username=ercan1s1k)(
 
 
-6. **GitHub Skyline**:
-
-   ![GitHub Skyline](https://skyline.github.com/ercan1s1k/2023)
 
 
-7. **GitHub Readme Quotes**:
+
+
+   **Çeşitli Alıntılar**:
 
    ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-8. **GitHub Readme Jokes**:
-
-   ![Readme Jokes](https://readme-jokes.vercel.app/api)
 
 
-9. **GitHub Readme Twitter**:
 
-   ![Readme Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=akikvsafir)
-
-
-10. **GitHub Readme Spotify**:
-
-    ![Readme Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ercan1s1k&cover_image=true&theme=default)
- 
-
-11. **GitHub Readme DevCard**:
-
-    ![DevCard](https://github.com/ercan1s1k/devcard)
-
-
-12. **GitHub Readme Metrics**:
+    **GitHub Readme Metrics**:
 
     ![Metrics](https://github.com/ercan1s1k/metrics)
 
 
-13. **GitHub Readme StackOverflow**:
-
-    ![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=ercan1s1k)
-
-
-14. **GitHub Readme StackExchange**:
-
-    ![StackExchange](https://github-readme-stackexchange.vercel.app/?userID=ercan1s1k)
-
-
-15. **GitHub Readme Medium**:
-
-    ![Medium](https://github-readme-medium.vercel.app/?username=ercan1s1k)
-
-
-16. **GitHub Readme Dev.to**:
-
-    ![Dev.to](https://github-readme-devto.vercel.app/?username=ercan1s1k)
-  
-
-17. **GitHub Readme Hashnode**:
-
-    ![Hashnode](https://github-readme-hashnode.vercel.app/?username=ercan1s1k)
-  
-
-18. **GitHub Readme Codewars**:
-
-    ![Codewars](https://github-readme-codewars.vercel.app/?username=ercan1s1k)
-
-
-19. **GitHub Readme LeetCode**:
-
-    ![LeetCode](https://github-readme-leetcode.vercel.app/?username=ercan1s1k)
-    
-
-20. **GitHub Readme HackerRank**:
-
-    ![HackerRank](https://github-readme-hackerrank.vercel.app/?username=ercan1s1k)
-    
-
-21. **GitHub Readme Codeforces**:
-
-    ![Codeforces](https://github-readme-codeforces.vercel.app/?username=ercan1s1k)
-    
-
-22. **GitHub Readme Top Repositories**:
-
-    ![Top Repositories](https://github-readme-top-repositories.vercel.app/?username=ercan1s1k)
-    
-
-23. **GitHub Readme Contributions**:
-
-    ![Contributions](https://github-readme-contributions.vercel.app/?username=ercan1s1k)
-    
-
-24. **GitHub Readme Achievements**:
-
-    ![Achievements](https://github-readme-achievements.vercel.app/?username=ercan1s1k)
-  
-
-25. **GitHub Readme Badges**:
-
-    ![Badges](https://github-readme-badges.vercel.app/?username=ercan1s1k)
-    
-
-26. **GitHub Readme Projects**:
-
-    ![Projects](https://github-readme-projects.vercel.app/?username=ercan1s1k)
-    
-
-27. **GitHub Readme Issues**:
-
-    ![Issues](https://github-readme-issues.vercel.app/?username=ercan1s1k)
-    
-
-28. **GitHub Readme Pull Requests**:
-
-    ![Pull Requests](https://github-readme-pull-requests.vercel.app/?username=ercan1s1k)
- 
-
-29. **GitHub Readme Discussions**:
-
-    ![Discussions](https://github-readme-discussions.vercel.app/?username=ercan1s1k)
-    
-
-30. **GitHub Readme Sponsors**:
-
-    ![Sponsors](https://github-readme-sponsors.vercel.app/?username=ercan1s1k)
  
 
 
