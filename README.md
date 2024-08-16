@@ -49,15 +49,14 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Çeşitli Alıntılar:
 
-START_QUOTES
+   ![Minimalist Header](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-END_QUOTES
+   ![Kod Header](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
+   ![Teknoloji Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-![Header Gif](https://media.giphy.com/media/YOUR_NEW_GIPHY_LINK/giphy.gif)
-
+   ![Yaratıcı Header](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 
 
