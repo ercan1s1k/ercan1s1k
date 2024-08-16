@@ -51,7 +51,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Profil Rozetlerim:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
