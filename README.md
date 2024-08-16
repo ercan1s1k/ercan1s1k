@@ -64,7 +64,9 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/ercan1s1k/count.svg)
+
+2. **Ziyaretçi Sayısı**
+   ![Visitor Count](https://profile-counter.glitch.me/ercan1s1k/count.svg)
 
 
 3. **GitHub Profile Summary Cards**:
