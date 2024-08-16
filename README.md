@@ -52,6 +52,7 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 ## Çeşitli Alıntılar:
 
 <!-- START_QUOTES -->
+
 <!-- END_QUOTES -->
 
 
