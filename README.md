@@ -50,13 +50,9 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 
 
-   ![Minimalist Header](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-   ![Kod Header](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
-   ![Teknoloji Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-   ![Yaratıcı Header](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Kod Temalı Header](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 
 
