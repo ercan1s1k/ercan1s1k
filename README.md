@@ -52,7 +52,7 @@
 
 
 
-![Kodlama GIF 1](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif?width=950&height=500)
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
 
 
