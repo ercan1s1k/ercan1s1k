@@ -2,14 +2,20 @@ def read_quotes(quotes_file):
     try:
         with open(quotes_file, 'r', encoding='utf-8') as f:
             quotes = f.readlines()
+        print(f"Okunan alıntılar: {quotes}")  # Hata ayıklama mesajı
         return quotes
     except FileNotFoundError:
         print(f"{quotes_file} bulunamadı.")
         return []
 
 def update_readme(quotes, readme):
-    with open(readme, 'r', encoding='utf-8') as f:
-        content = f.readlines()
+    try:
+        with open(readme, 'r', encoding='utf-8') as f:
+            content = f.readlines()
+        print(f"README.md içeriği: {content}")  # Hata ayıklama mesajı
+    except FileNotFoundError:
+        print(f"{readme} bulunamadı.")
+        return
 
     # Alıntılar bölümünü güncelle
     try:
@@ -32,5 +38,4 @@ if __name__ == '__main__':
     quotes_file = 'alintilar.txt'
     readme_file = 'README.md'
     quotes = read_quotes(quotes_file)
-    print("Okunan alıntılar:", quotes)  # Hata ayıklama mesajı
     update_readme(quotes, readme_file)
