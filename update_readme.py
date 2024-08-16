@@ -1,3 +1,12 @@
+def read_quotes(quotes_file):
+    try:
+        with open(quotes_file, 'r', encoding='utf-8') as f:
+            quotes = f.readlines()
+        return quotes
+    except FileNotFoundError:
+        print(f"{quotes_file} bulunamadı.")
+        return []
+
 def update_readme(quotes, readme):
     with open(readme, 'r', encoding='utf-8') as f:
         content = f.readlines()
