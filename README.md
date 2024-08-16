@@ -39,11 +39,12 @@ Merhaba! Ben Ercan Işık, yazılım geliştiricisiyim. Yazılım dünyasında k
 
 **Ziyaretçi Sayısı**:
    ![Visitor Count](https://profile-counter.glitch.me/ercan1s1k/count.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=react)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ercan1s1k&theme=dark)](https://github.com/ercan1s1k)
 ![Contributors](https://github-readme-stats.vercel.app/api?username=ercan1s1k&show_icons=true&theme=react&count_private=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ercan1s1k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercan1s1k&layout=compact&theme=react)
+
 ## Profil Rozetlerim:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ercan1s1k&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
